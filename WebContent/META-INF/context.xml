@@ -29,7 +29,7 @@
     -->
 
     <ResourceLink 
-    	global="jdbc/orcl"mderdfdasfdfasdfsaf
+    	global="jdbc/orcl"
     	name="jdbc/orcl"
     	type="javax.sql.DataSource">
     </ResourceLink></Context>
