@@ -1,0 +1,22 @@
+@charset "EUC-KR";
+
+#Header {
+	left-margin: auto;
+	right-margin: auto;
+	height: 100px;
+	backgroud-color: #c9fafe;
+}
+
+#Content {
+	left-margin: auto;
+	right-margin: auto;
+	height: 100px;
+	backgroud-color: #ffffdd;
+}
+
+#Board {
+	left-margin: auto;
+	right-margin: auto;
+	height: 100px;
+	backgroud-color: #e0e0e0;
+}
